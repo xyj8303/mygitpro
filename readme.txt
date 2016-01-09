@@ -1,5 +1,3 @@
-This is a git test file !
+Git is a distributed version control system.
 
 
-
-second change 
